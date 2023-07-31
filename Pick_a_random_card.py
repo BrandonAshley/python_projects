@@ -1,3 +1,4 @@
+#https://thecleverprogrammer.com/2021/04/26/pick-a-random-card-using-python/
 import random
 
 cards=["Diamonds",'Spades','Hearts','Clubs']
